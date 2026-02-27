@@ -35,11 +35,3 @@ Menu:
 4. Limpar todas as despesas
 5. Sair
 ```
-
-## 👨‍💻 Autor
-
-Seu nome aqui
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
